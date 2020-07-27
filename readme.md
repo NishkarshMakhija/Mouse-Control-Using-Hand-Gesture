@@ -38,7 +38,7 @@ $ pip install imutils
 $ pip install PyAutoGUI
 ```
 
-Alternatively, you can use **requiremnts.txt** file to install all the requirements at once.
+Alternatively, you can use **requirements.txt** file to install all the requirements at once.
 The following command will install the packages from requirements.txt file.
 ```sh
 $ pip install -r requirements.txt
