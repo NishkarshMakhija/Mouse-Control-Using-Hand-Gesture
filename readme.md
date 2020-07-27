@@ -68,5 +68,5 @@ Class Diagram of the project is given as pdf above for better understanding
 #### Use Case Diagram
 <img src="./Screenshots/Use Case Diagram.png" height="400" />
 
-#References
+# References
 1. This project uses the concept of Ball Tracking with OpenCV by [PyImageSearch](https://www.pyimagesearch.com)
