@@ -1,7 +1,7 @@
 # Mouse Controller using Hand Gesture
 
 
-Mouse Controller is a Python application which uses Computer Vision to increase Human Compute Interaction by using Hand Gestures to control the mouse pointer and clicks. 
+Mouse Controller is a Python application which uses Computer Vision to increase Human Computer Interaction by using Hand Gestures to control the mouse pointer and clicks. 
 To detect hand gestures, we use coloured caps to detect hand and it's movement as shown in figure below:
 
 <img src="./Screenshots/Camera1.jpg" height="200" />
@@ -63,7 +63,10 @@ Click **Start** to start the application.
 
 # Extra Documents
 
-Class Diagram of above project is given as pdf above for better understanding
+Class Diagram of the project is given as pdf above for better understanding
 
 #### Use Case Diagram
 <img src="./Screenshots/Use Case Diagram.png" height="400" />
+
+#References
+1. This project uses the concept of Ball Tracking with OpenCV by [PyImageSearch](https://www.pyimagesearch.com)
